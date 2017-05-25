@@ -1,0 +1,5 @@
+@User 
+Feature: Updating a test
+  As an admin 
+  I want to update a test
+  So that the test coverage of the project is satisfactory
